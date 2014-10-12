@@ -1,0 +1,8 @@
+name: Arjun Balaji
+tagline: Developer, autodidact, futurist, Boston sports fan.
+twitter: http://twitter.com/arjunblj
+github: https://github.com/arjunblj
+markdown: redcarpet
+highlighter: pygments
+permalink: /:title
+post_dirs: false
